@@ -5,7 +5,7 @@ Here are highlights of my repositories:
 
 ### JavaParsec
 
-(https://github.com/dgawlik/JavaParsec)[link]
+[https://github.com/dgawlik/JavaParsec](link)
 
 I experimented a lot with Haskell in 2025 and expecially liked the experience of writing parsers with Parsec. This library
 tries to mimick doing fast iterations on combinators with JBang and Java24 implicit class main files. It is a self contained
@@ -13,19 +13,19 @@ collection of parser combinators ready to use on advanced use cases. Check out t
 
 ### GoIoc
 
-(https://github.com/dgawlik/go-ioc)[link]
+[https://github.com/dgawlik/go-ioc](link)
 
 Dependency Injection container for Go, doing injection based on type aliases.
 
 ### Spiral
 
-(https://github.com/dgawlik/spiral)[link]
+[https://github.com/dgawlik/spiral](link)
 
 Translation of idea (from Kakoune editor) of selecting and moving cursor in one time in VSCode plugin.
 
 ### Octapus
 
-(https://github.com/dgawlik/octopus)[link]
+[https://github.com/dgawlik/octopus](link)]
 
 Modelling concurrency issues by auto-ennumerating all concurrent runs, with pretty printing.
 
