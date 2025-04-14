@@ -1,5 +1,7 @@
 👋 Hi, I’m Dominik Gawlik, Software Developer from Germany.
+
 💻 At work I do backend stuff on JVM. After work I experiment with new technologies.
+
 👀 Currently I'm following trends in Software and preparing to write own toy language.
 
 Check out my hobby projects:
