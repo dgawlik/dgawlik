@@ -13,19 +13,19 @@ collection of parser combinators ready to use on advanced use cases. Check out t
 
 ### GoIoc
 
-[https://github.com/dgawlik/go-ioc](link)
+[link](https://github.com/dgawlik/go-ioc)
 
 Dependency Injection container for Go, doing injection based on type aliases.
 
 ### Spiral
 
-[https://github.com/dgawlik/spiral](link)
+[link](https://github.com/dgawlik/spiral)
 
 Translation of idea (from Kakoune editor) of selecting and moving cursor in one time in VSCode plugin.
 
 ### Octapus
 
-[https://github.com/dgawlik/octopus](link)]
+[link](https://github.com/dgawlik/octopus)
 
 Modelling concurrency issues by auto-ennumerating all concurrent runs, with pretty printing.
 
