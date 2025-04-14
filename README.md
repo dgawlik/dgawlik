@@ -5,7 +5,7 @@ Here are highlights of my repositories:
 
 ### JavaParsec
 
-(link)[https://github.com/dgawlik/JavaParsec]
+[link](https://github.com/dgawlik/JavaParsec])
 
 I experimented a lot with Haskell in 2025 and expecially liked the experience of writing parsers with Parsec. This library
 tries to mimick doing fast iterations on combinators with JBang and Java24 implicit class main files. It is a self contained
