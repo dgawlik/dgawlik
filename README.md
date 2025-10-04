@@ -8,7 +8,7 @@ Check out my hobby projects:
 
 ### JavaParsec
 
-[link](https://github.com/dgawlik/JavaParsec])
+[link](https://github.com/dgawlik/JavaParsec)
 
 I learned Haskell on intermediate level in 2025 it was partly painful partly fun. I wanted to bring this experience to Java so this library
 tries be REPL friendly and mimick doing fast iterations on parser combinators with JBang and Java24 implicit class main files. It is a self contained
