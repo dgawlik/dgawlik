@@ -7,7 +7,7 @@
 
 ## Online Portfolio
 
-[Winterhude]([https://github.com/dgawlik/JavaParsec](https://www.winterhude.app/))
+### [Winterhude](https://www.winterhude.app/)
 
 I was intensively learning German one year ago, and I have created an app for acceleration. The idea is simple: paste text in foreign language and
 get sentence by sentence translations in English. You can check individual words translations in sentences to see how the idioms lay out. It is 
@@ -15,11 +15,12 @@ also possible to listen to native speaker (Google Voice API).
 
 **Stack: Python, FastAPI, Google GenAI, React, PostgreSQL, SQLAlchemy**
 
-[JuicyJ](https://juicyj.tech/)
+### [JuicyJ](https://juicyj.tech/)
 
 Along the way I learned intermediate Haskell and especially loved idea of fast prototyping with Shell. The project tries to bring experience of 
 Python notebooks to Java as an UI extension to JShell which is suprisingly capable.
 
+**Stack: Java, React, WebSockets**
 
 ## Check out also my other projects
 
