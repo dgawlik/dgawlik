@@ -1,10 +1,27 @@
-👋 Hi, I’m Dominik Gawlik, Software Developer from Germany.
+👋 Hi, I’m Dominik Gawlik, Software Developer based in Poland.
 
 💻 At work I do backend stuff on JVM. After work I experiment with new technologies.
 
 👀 Currently I'm following trends in Software and preparing to write own toy language.
 
-Check out my hobby projects:
+
+## Online Portfolio
+
+[Winterhude]([https://github.com/dgawlik/JavaParsec](https://www.winterhude.app/))
+
+I was intensively learning German one year ago, and I have created an app for acceleration. The idea is simple: paste text in foreign language and
+get sentence by sentence translations in English. You can check individual words translations in sentences to see how the idioms lay out. It is 
+also possible to listen to native speaker (Google Voice API). 
+
+**Stack: Python, FastAPI, Google GenAI, React, PostgreSQL, SQLAlchemy**
+
+[JuicyJ](https://juicyj.tech/)
+
+Along the way I learned intermediate Haskell and especially loved idea of fast prototyping with Shell. The project tries to bring experience of 
+Python notebooks to Java as an UI extension to JShell which is suprisingly capable.
+
+
+## Check out also my other projects
 
 ### JavaParsec
 
@@ -13,6 +30,15 @@ Check out my hobby projects:
 I learned Haskell on intermediate level in 2025 it was partly painful partly fun. I wanted to bring this experience to Java so this library
 tries be REPL friendly and mimick doing fast iterations on parser combinators with JBang and Java24 implicit class main files. It is a self contained
 collection of parser functions ready to be used on advanced use cases. Check out the examples directory.
+
+
+### Signals
+
+[link](https://github.com/dgawlik/signals)
+
+Late 2025 EToro trading platofrm release early (I think) version of trading API. Inspired by that I wrote a backtesting toolkit to play around
+with different algo-trading strategies.
+
 
 ### Spring Professional Certification Notes
 
@@ -43,12 +69,6 @@ Modelling concurrency issues by auto-ennumerating all concurrent runs, with pret
 [link](https://github.com/dgawlik/json-cv)
 
 Fun project in Kotlin extending Json syntax with computed expressions.
-
-### Ginger
-
-[link](https://github.com/dgawlik/ginger)
-
-Efficient log browser for very large files in Node.js and Electron.
 
 <!---
 dgawlik/dgawlik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
