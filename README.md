@@ -7,6 +7,14 @@
 
 ## Online Portfolio
 
+### [SnapInvest](https://snapinvest.vercel.app/)
+
+In November 2025 my trader (EToro) published API for managing account. I experimented with it a little bit and made an app that takes you back in time and let's invest dream portfolio. Then it calculates the returns up to the present. Any Ticker visible on EToro works and additionally you can view Sharpe Ratio of your portfolio.
+
+### [BuddyGemma](https://buddygemma.help/)
+
+After reading a book on LLMs I wanted to use this knowledge in practice. Gemma 4 was released in April 2026 and I fine tuned 26B MoE model to embody Cognitive Behavior Therapist. The work is ongoing as I'm not satisfied still with results. Watch the progress in upcoming months.
+
 ### [Winterhude](https://www.winterhude.app/)
 
 I was intensively learning German one year ago, and I have created an app for acceleration. The idea is simple: paste text in foreign language and
